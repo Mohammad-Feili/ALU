@@ -1,0 +1,32 @@
+/*this is the Main module*/
+`timescale 1ns/1ns
+module  ALU(a,b,cin,sel,out,carry,Z);
+input[7:0] a,b;
+input cin;
+input[3:0] sel;
+output[7:0] out;
+output carry,Z;
+wire[7:0]  G0,G1;
+ArithmeticU  F0(a,b,cin,sel[1:0],G0,carry,Z);
+LogicU         F1(a,b,sel[1:0],G1);
+/*
+G2[7]=1'b0;
+G2[6]=a[7];
+G2[5]=a[6];
+G2[4]=a[5];
+G2[3]=a[4];
+G2[2]=a[3];
+G2[1]=a[2];
+G2[0]=a[1];
+
+G3[0]=1'b0;
+G3[1]=a[0];
+G3[2]=a[1];
+G3[3]=a[2];
+G3[4]=a[3];
+G3[5]=a[4];
+G3[6]=a[5];
+G3[7]=a[6];
+*/
+mux_4to1_8b  F2(G0,G1,{0,a[7:1]},{a[6:0],0},sel[3:2],out);
+endmodule

@@ -1,0 +1,39 @@
+/*this module is 8-Bit multiplexer*/
+
+`timescale 1ns/1ns
+
+module  mux_4to1_8b(a,b,c,d,sel,out);
+
+input[7:0] a,b,c,d;
+
+input[1:0] sel;
+
+output[7:0] out;
+
+
+mux_4to1_1b   F0(a[0],b[0],c[0],d[0],sel,out[0]);
+
+
+mux_4to1_1b   F1(a[1],b[1],c[1],d[1],sel,out[1]);
+
+
+mux_4to1_1b   F2(a[2],b[2],c[2],d[2],sel,out[2]);
+
+
+mux_4to1_1b   F3(a[3],b[3],c[3],d[3],sel,out[3]);
+
+
+mux_4to1_1b   F4(a[4],b[4],c[4],d[4],sel,out[4]);
+
+
+mux_4to1_1b   F5(a[5],b[5],c[5],d[5],sel,out[5]);
+
+
+mux_4to1_1b   F6(a[6],b[6],c[6],d[6],sel,out[6]);
+
+
+mux_4to1_1b   F7(a[7],b[7],c[7],d[7],sel,out[7]);
+
+
+
+endmodule

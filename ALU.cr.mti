@@ -1,0 +1,127 @@
+{C:/Users/mohammad feili/Documents/Modelsim/ALU_test.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\ALU_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_test
+
+Top level modules:
+	ALU_test
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/mux_4to1_8b_test.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_4to1_8b_test
+
+Top level modules:
+	mux_4to1_8b_test
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/mux_testbench.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/mux_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_testbench
+
+Top level modules:
+	mux_testbench
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/ALU.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/mux_4to1_8b.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_4to1_8b
+
+Top level modules:
+	mux_4to1_8b
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/mux.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/mux_4to1_1b.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_4to1_1b
+
+Top level modules:
+	mux_4to1_1b
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/arithmeticU_test.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/arithmeticU_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module arithmeticU_test
+
+Top level modules:
+	arithmeticU_test
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/ArithmeticFA.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/ArithmeticFA.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ArithmeticFA
+
+Top level modules:
+	ArithmeticFA
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/mux_4to1_1b_test.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_4to1_1b_test
+
+Top level modules:
+	mux_4to1_1b_test
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/LogicU_testbench.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/LogicU_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LogicU_testbench
+
+Top level modules:
+	LogicU_testbench
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/arithmeticMUX_test.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/arithmeticMUX_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module arithmeticMUX_test
+
+Top level modules:
+	arithmeticMUX_test
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/LogicU.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\LogicU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LogicU
+
+Top level modules:
+	LogicU
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/ArithmeticMUX.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/ArithmeticMUX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ArithmeticMUX
+
+Top level modules:
+	ArithmeticMUX
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/fa_testbench.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/fa_testbench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fa_testbench
+
+Top level modules:
+	fa_testbench
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/ArithmeticU.v} {1 {vlog -work work {C:\Users\mohammad feili\Documents\Modelsim\ArithmeticU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ArithmeticU
+
+Top level modules:
+	ArithmeticU
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/fa.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/fa.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/arithmeticFA_test.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/arithmeticFA_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module arithmeticFA_test
+
+Top level modules:
+	arithmeticFA_test
+
+} {} {}}

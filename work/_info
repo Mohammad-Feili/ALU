@@ -1,0 +1,357 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mohammad feili\Documents\Modelsim
+vALU
+Z1 !s100 ZMUYk8i1G_A_P65?IlC[B3
+Z2 IfkeB2SHS;7d@`XUn?EPPQ1
+Z3 V>jGUL8O?7o440NfSh^E3]3
+Z4 dC:\Users\mohammad feili\Documents\Modelsim
+Z5 w1540890894
+Z6 8C:\Users\mohammad feili\Documents\Modelsim\ALU.v
+Z7 FC:\Users\mohammad feili\Documents\Modelsim\ALU.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+!i10b 1
+!s85 0
+Z12 !s108 1540890907.270000
+Z13 !s107 C:\Users\mohammad feili\Documents\Modelsim\ALU.v|
+!s101 -O0
+vALU_test
+!i10b 1
+Z14 !s100 HfThVKD?:h_EQJnYRfTbb1
+Z15 IL^lXRi1VP7GeokaG<<g^J0
+Z16 VZ4[M=f[G4?B3GPjIZHVdi0
+R4
+Z17 w1540890629
+Z18 8C:\Users\mohammad feili\Documents\Modelsim\ALU_test.v
+Z19 FC:\Users\mohammad feili\Documents\Modelsim\ALU_test.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1540890907.513000
+!s107 C:\Users\mohammad feili\Documents\Modelsim\ALU_test.v|
+Z20 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\ALU_test.v|
+!s101 -O0
+R10
+Z21 n@a@l@u_test
+vArithmeticFA
+Z22 !s100 iKYeD;RLRXWIJ85@7iEbK3
+Z23 IUAjW<M3fQ?R[iPKSV8:eC2
+Z24 V`@nXJbTMT60ZofPIe9i;62
+R4
+Z25 w1540842687
+Z26 8C:/Users/mohammad feili/Documents/Modelsim/ArithmeticFA.v
+Z27 FC:/Users/mohammad feili/Documents/Modelsim/ArithmeticFA.v
+L0 3
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/ArithmeticFA.v|
+R10
+Z29 n@arithmetic@f@a
+Z30 !s108 1540890904.177000
+Z31 !s107 C:/Users/mohammad feili/Documents/Modelsim/ArithmeticFA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+varithmeticFA_test
+Z32 !s100 NmWb:b81ZgM77988UMUjB1
+Z33 I?B:n3D0JzI`TZFY>zTP<?3
+Z34 VnD5Ln8Z1eL]DFUPWXkiO22
+R4
+Z35 w1540843083
+Z36 8C:/Users/mohammad feili/Documents/Modelsim/arithmeticFA_test.v
+Z37 FC:/Users/mohammad feili/Documents/Modelsim/arithmeticFA_test.v
+L0 2
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/arithmeticFA_test.v|
+R10
+Z39 narithmetic@f@a_test
+Z40 !s108 1540890904.483000
+Z41 !s107 C:/Users/mohammad feili/Documents/Modelsim/arithmeticFA_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vArithmeticMUX
+Z42 !s100 PLL>M]>J@L04YYWNe9Zzi3
+Z43 IEZO8Q[QfT;UeM4Ihh61cG1
+Z44 VM[_YIaMU68Wm?KT_]`cUG3
+R4
+Z45 w1540840592
+Z46 8C:/Users/mohammad feili/Documents/Modelsim/ArithmeticMUX.v
+Z47 FC:/Users/mohammad feili/Documents/Modelsim/ArithmeticMUX.v
+L0 2
+R8
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/ArithmeticMUX.v|
+R10
+Z49 n@arithmetic@m@u@x
+Z50 !s108 1540890904.752000
+Z51 !s107 C:/Users/mohammad feili/Documents/Modelsim/ArithmeticMUX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+varithmeticMUX_test
+Z52 !s100 e_6cWH=N4e96OcAST62^?2
+Z53 IE3ZcnLT2ATMa<<RA_f56O1
+Z54 Vnli9eiM;@c`_9aH0C4T]Q0
+R4
+Z55 w1540841536
+Z56 8C:/Users/mohammad feili/Documents/Modelsim/arithmeticMUX_test.v
+Z57 FC:/Users/mohammad feili/Documents/Modelsim/arithmeticMUX_test.v
+L0 2
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/arithmeticMUX_test.v|
+R10
+Z59 narithmetic@m@u@x_test
+Z60 !s108 1540890905.169000
+Z61 !s107 C:/Users/mohammad feili/Documents/Modelsim/arithmeticMUX_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vArithmeticU
+Z62 !s100 XBzcb5Mh>XhNBhom[92FY2
+Z63 IWWQPzdRMcmiKj[WkALRWm0
+Z64 V8BQ<XoYb>zNYGj=c3NFZ;3
+R4
+Z65 w1540844050
+Z66 8C:\Users\mohammad feili\Documents\Modelsim\ArithmeticU.v
+Z67 FC:\Users\mohammad feili\Documents\Modelsim\ArithmeticU.v
+L0 3
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\ArithmeticU.v|
+R10
+Z69 n@arithmetic@u
+Z70 !s108 1540890905.456000
+Z71 !s107 C:\Users\mohammad feili\Documents\Modelsim\ArithmeticU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+varithmeticU_test
+Z72 !s100 AIC2P0AbD9gmg[7]jhLOA1
+Z73 ICOD7TWW8Zz<]FQ`P?9;IR0
+Z74 VbIIOACzc^OizAAi2fedl^0
+R4
+Z75 w1540844486
+Z76 8C:/Users/mohammad feili/Documents/Modelsim/arithmeticU_test.v
+Z77 FC:/Users/mohammad feili/Documents/Modelsim/arithmeticU_test.v
+L0 2
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/arithmeticU_test.v|
+R10
+Z79 narithmetic@u_test
+Z80 !s108 1540890905.700000
+Z81 !s107 C:/Users/mohammad feili/Documents/Modelsim/arithmeticU_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfa
+Z82 !s100 YNENgKPz6z`J=zR3Zb>9i1
+Z83 IHAFmfZZiG`:AMC_3T=JIE0
+Z84 VfS0hS1_2MEfNAd3o;RnDS0
+R4
+Z85 w1540832779
+Z86 8C:/Users/mohammad feili/Documents/Modelsim/fa.v
+Z87 FC:/Users/mohammad feili/Documents/Modelsim/fa.v
+L0 2
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/fa.v|
+R10
+Z89 !s108 1540890902.162000
+Z90 !s107 C:/Users/mohammad feili/Documents/Modelsim/fa.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfa_testbench
+Z91 !s100 e:2@INhimWV1hi?OUKZKO3
+Z92 I`^b8H^SmoP63FAo7QfFU83
+Z93 Vzi1`C?H093Fk_Yz<>ETon0
+R4
+Z94 w1540841973
+Z95 8C:/Users/mohammad feili/Documents/Modelsim/fa_testbench.v
+Z96 FC:/Users/mohammad feili/Documents/Modelsim/fa_testbench.v
+L0 3
+R8
+r1
+31
+Z97 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/fa_testbench.v|
+R10
+Z98 !s108 1540890902.498000
+Z99 !s107 C:/Users/mohammad feili/Documents/Modelsim/fa_testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLogicU
+Z100 !s100 K<AU3bh9?G_6I1N_[W]lY1
+Z101 I:TT;5[@@3L^CWTFWzPYc51
+Z102 VcoMI]@7n4Ec7?C97H0J6V1
+R4
+Z103 w1540837809
+Z104 8C:\Users\mohammad feili\Documents\Modelsim\LogicU.v
+Z105 FC:\Users\mohammad feili\Documents\Modelsim\LogicU.v
+L0 3
+R8
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\LogicU.v|
+R10
+Z107 n@logic@u
+Z108 !s108 1540890903.488000
+Z109 !s107 C:\Users\mohammad feili\Documents\Modelsim\LogicU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vLogicU_testbench
+Z110 !s100 DBadEdLGNkEO__gc`69Nb1
+Z111 Ik[[iEN[UT8F5Shlke7^=91
+Z112 V=WIcA82TBfBcXnRWYgO7^2
+R4
+Z113 w1540838243
+Z114 8C:/Users/mohammad feili/Documents/Modelsim/LogicU_testbench.v
+Z115 FC:/Users/mohammad feili/Documents/Modelsim/LogicU_testbench.v
+L0 2
+R8
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/LogicU_testbench.v|
+R10
+Z117 n@logic@u_testbench
+Z118 !s108 1540890903.816000
+Z119 !s107 C:/Users/mohammad feili/Documents/Modelsim/LogicU_testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z120 !s100 gcd_Vl2XWFG:iL6V4>Ch30
+Z121 I63Y5=Rd=PjlHNXnl>V:L_1
+Z122 VJ6AU]8M21NO@WfaP[dZCU0
+R4
+Z123 w1540838348
+Z124 8C:/Users/mohammad feili/Documents/Modelsim/mux.v
+Z125 FC:/Users/mohammad feili/Documents/Modelsim/mux.v
+L0 2
+R8
+r1
+31
+Z126 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/mux.v|
+R10
+Z127 !s108 1540890902.799000
+Z128 !s107 C:/Users/mohammad feili/Documents/Modelsim/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_4to1_1b
+Z129 !s100 _<neMa:J:g522_XFCHKB40
+Z130 IRW^IWPYk[OE<]02E[_20=2
+Z131 VO7z0GHLDlkSjVWHJdIRM=3
+R4
+Z132 w1540885212
+Z133 8C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b.v
+Z134 FC:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b.v
+L0 3
+R8
+r1
+31
+Z135 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b.v|
+R10
+Z136 !s108 1540890906.134000
+Z137 !s107 C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_4to1_1b_test
+Z138 !s100 WTnRhP[ZL5Y[Hb_VkLRBO2
+Z139 I[ILGNCJJB_bOKn[]ZODKY3
+Z140 VA@oboFdX==FLJ;FdSQ1cI3
+R4
+Z141 w1540885544
+Z142 8C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b_test.v
+Z143 FC:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b_test.v
+L0 2
+R8
+r1
+31
+Z144 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b_test.v|
+R10
+Z145 !s108 1540890906.637000
+Z146 !s107 C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_1b_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_4to1_8b
+Z147 !s100 CZb1`TBJ=mKc`bAC:Rz8l2
+Z148 IVFfcDoRNH]l9=XEX4j1>V1
+Z149 V9c4[c>9NL;8geNofgJ^0_2
+R4
+Z150 w1540886127
+Z151 8C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b.v
+Z152 FC:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b.v
+L0 3
+R8
+r1
+31
+Z153 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b.v|
+R10
+Z154 !s108 1540890906.853000
+Z155 !s107 C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_4to1_8b_test
+Z156 !s100 1o<6_7aGZ_BMgn[hI@_Yd3
+Z157 INUe_m^57_4g>H6@bKMbjO3
+Z158 V87I@DOIZ9ZI8z0X`WFHU03
+R4
+Z159 w1540886467
+Z160 8C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b_test.v
+Z161 FC:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b_test.v
+L0 2
+R8
+r1
+31
+Z162 !s90 -reportprogress|300|-work|work|C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b_test.v|
+R10
+Z163 !s108 1540890907.076000
+Z164 !s107 C:\Users\mohammad feili\Documents\Modelsim\mux_4to1_8b_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_testbench
+Z165 !s100 IN2P56?C0cgDG=j^dBk_F2
+Z166 Ie:4=?3=zaGj:[@j:dSi4F0
+Z167 V;Ved7IN<ebTnFSCN2Bz9U2
+R4
+Z168 w1540841675
+Z169 8C:/Users/mohammad feili/Documents/Modelsim/mux_testbench.v
+Z170 FC:/Users/mohammad feili/Documents/Modelsim/mux_testbench.v
+L0 2
+R8
+r1
+31
+Z171 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/mux_testbench.v|
+R10
+Z172 !s108 1540890903.159000
+Z173 !s107 C:/Users/mohammad feili/Documents/Modelsim/mux_testbench.v|
+!i10b 1
+!s85 0
+!s101 -O0
